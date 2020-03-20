@@ -7,3 +7,5 @@ Cambio numero 2 de README
 Cambio numero 3 de README
 
 Cambio numero 1 de README rama1
+
+Cambio numero 2 de README rama1
